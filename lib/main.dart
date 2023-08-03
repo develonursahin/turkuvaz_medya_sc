@@ -26,7 +26,6 @@ Future<void> main() async {
 class HaberApp extends StatelessWidget {
   const HaberApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
