@@ -13,18 +13,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: dart-lang/setup-dart@9a04e6d73cca37bd455e0608d7e5092f881fd603
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2 # Use the official Flutter setup action
+        with:
+          flutter-version: '2.x' # Replace with the desired Flutter version
 
       - name: Install dependencies
-        run: |
-          if [ -f "pubspec.yaml" ]; then
-            flutter pub get
-          else
-            dart pub get
-          fi
+        run: flutter pub get # Use `flutter pub get` for Flutter projects
 
       - name: Analyze project source
-        run: dart analyze
+        run: dart analyze # Use `dart analyze` for Dart projects (non-Flutter)
 
       - name: Run tests
-        run: dart test
+        run: dart test # Use `dart test` for Dart projects (non-Flutter)
