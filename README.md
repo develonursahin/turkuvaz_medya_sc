@@ -62,3 +62,70 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisan
 ## 📧 İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, benimle [e-posta yoluyla](mailto:derinonursahin@gmail.com) iletişime geçebilirsiniz.
+
+# EN
+
+<p align="center">
+  <img src="assets/icon/icon.png" alt="HAPP Logo" width="150" height="150">
+</p>
+
+# 🚀 HAPP
+
+This project is a starting point for a Flutter application. The app includes a mobile application that visually presents news articles.
+
+## 📝 Project Description
+
+This Flutter project aims to visually present up-to-date news headlines for users by using various APIs to fetch news articles. The project provides a basic structure to be used during development, and developers can customize the project by adding desired features on top of this foundation.
+
+**Note: 🙈 This project is a proprietary mobile application named "HAPP." It may contain API keys and other sensitive information actively used by the company. This information is hidden using gitignore to protect the company's privacy, and it is strictly prohibited to share, distribute, or disclose any information related to confidential APIs or sensitive data, in order to protect the company's privacy.**
+
+## 📦 Used Packages
+
+In this project, the following packages are used:
+
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): Used for Cupertino style icons.
+- [intl](https://pub.dev/packages/intl): Used for application internalization.
+- [video_player](https://pub.dev/packages/video_player): Used for playing videos.
+- [dio](https://pub.dev/packages/dio): Used for making HTTP requests.
+- [url_launcher](https://pub.dev/packages/url_launcher): Used for launching URLs.
+
+## 🚀 Getting Started
+
+To run your project in a local Flutter development environment, clone the project to your local machine and install Flutter dependencies.
+
+You can follow these steps to run the application:
+
+1. Download and install Flutter from the [official website](https://flutter.dev/docs/get-started/install).
+2. Clone this project repository: `git clone https://github.com/derinonursahin/haber_app.git`
+3. Go to the terminal and navigate to the project folder: `cd haber_app`
+4. To install the necessary Flutter dependencies: `flutter pub get`
+5. To run the application on a device: `flutter run`
+
+## 💪 Contribution
+
+This project is open-source, and we welcome all contributions and feedback. Those who wish to contribute can make their contributions by creating a new branch and then opening a pull request.
+
+Before contributing to the project, we recommend reviewing the [Contribution Guide](CONTRIBUTING.md). To discuss changes related to the project before submitting your contributions, you can use the [Issue](https://github.com/derinonursahin/haber_app/issues) section.
+
+## 🐛 Bug Reports and Feature Requests
+
+If you find a bug or have a new feature request, please open an issue using the following templates:
+
+- [Issue Report Template](.github/ISSUE_TEMPLATE/issue_template.md)
+- [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
+
+## 📜 License
+
+This project is licensed under the MIT License. For more information, please see the [License File](LICENSE).
+
+## 📃 Resources
+
+- [Flutter Developer Documentation](https://flutter.dev/docs)
+- [Dart Programming Language](https://dart.dev/)
+- [GitHub Project Page](https://github.com/derinonursahin/haber_app)
+
+## 📧 Contact
+
+If you have any questions or feedback, you can contact me via [email](mailto:derinonursahin@gmail.com).
+
