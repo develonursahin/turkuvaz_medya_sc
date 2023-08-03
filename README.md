@@ -38,7 +38,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 Bu proje açık kaynaklıdır ve her türlü katkıyı ve geri bildirimi memnuniyetle karşılıyoruz. Katkıda bulunmak isteyenler, yeni bir dal oluşturarak katkılarını yapabilir ve ardından bir istek (pull request) açabilir.
 
-Projeye katkıda bulunmadan önce [Katkı Kılavuzu](CONTRIBUTING.md)'nu incelemenizi öneririz. Katkılarınızı göndermeden önce projeyle ilgili değişiklikleri tartışmak için [Issue](https://github.com/derinonursahin/HAPP/issues) bölümünü kullanabilirsiniz.
+Projeye katkıda bulunmadan önce [Katkı Kılavuzu](CONTRIBUTING.md)'nu incelemenizi öneririz. Katkılarınızı göndermeden önce projeyle ilgili değişiklikleri tartışmak için [Issue](https://github.com/derinonursahin/haber_app/issues) bölümünü kullanabilirsiniz.
 
 ## 📜 Lisans
 
