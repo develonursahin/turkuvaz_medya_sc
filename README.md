@@ -29,8 +29,8 @@ Proje dosyalarınızı yerel bir Flutter geliştirme ortamında çalıştırmak 
 Uygulamayı çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1. Flutter'ı [resmi websitesinden](https://flutter.dev/docs/get-started/install) indirin ve kurun.
-2. Bu proje deposunu klonlayın: `git clone https://github.com/derinonursahin/HAPP.git`
-3. Uygulamayı başlatmak için terminale gidin ve proje klasörüne geçin: `cd HAPP`
+2. Bu proje deposunu klonlayın: `git clone https://github.com/derinonursahin/haber_app.git`
+3. Uygulamayı başlatmak için terminale gidin ve proje klasörüne geçin: `cd haber_app`
 4. Gerekli Flutter bağımlılıklarını yüklemek için: `flutter pub get`
 5. Uygulamayı bir cihazda çalıştırmak için: `flutter run`
 
@@ -39,6 +39,14 @@ Uygulamayı çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 Bu proje açık kaynaklıdır ve her türlü katkıyı ve geri bildirimi memnuniyetle karşılıyoruz. Katkıda bulunmak isteyenler, yeni bir dal oluşturarak katkılarını yapabilir ve ardından bir istek (pull request) açabilir.
 
 Projeye katkıda bulunmadan önce [Katkı Kılavuzu](CONTRIBUTING.md)'nu incelemenizi öneririz. Katkılarınızı göndermeden önce projeyle ilgili değişiklikleri tartışmak için [Issue](https://github.com/derinonursahin/haber_app/issues) bölümünü kullanabilirsiniz.
+
+## 🐛 Hata Raporları ve Özellik Talepleri
+
+Eğer bir hata bulduysanız veya yeni bir özellik talep ediyorsanız, lütfen aşağıdaki şablonları kullanarak bir issue açın:
+
+- [Genel Issue Şablonu](.github/ISSUE_TEMPLATE/issue_template.md)
+- [Hata Raporu Şablonu](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Özellik Talebi Şablonu](.github/ISSUE_TEMPLATE/feature_request.md)
 
 ## 📜 Lisans
 
@@ -49,8 +57,8 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisan
 
 - [Flutter Geliştirici Belgeleri](https://flutter.dev/docs)
 - [Dart Programlama Dili](https://dart.dev/)
-- [GitHub Proje Sayfası](https://github.com/derinonursahin/HAPP)
+- [GitHub Proje Sayfası](https://github.com/derinonursahin/haber_app)
 
 ## 📧 İletişim
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, benimle [e-posta yoluyla](mailto:derinonursahin@example.com) iletişime geçebilirsiniz.
+Herhangi bir sorunuz veya geri bildiriminiz varsa, benimle [e-posta yoluyla](mailto:derinonursahin@gmail.com) iletişime geçebilirsiniz.
