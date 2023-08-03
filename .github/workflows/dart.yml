@@ -13,10 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Download Flutter SDK
+        run: |
+          git clone --branch 2.10.5 --depth 1 https://github.com/flutter/flutter.git $HOME/flutter
+          export PATH="$HOME/flutter/bin:$PATH"
+          flutter config --no-analytics
+
       - name: Set up Flutter
-        uses: subosito/flutter-action@v2 # Use the official Flutter setup action
-        with:
-          flutter-version: '2.10.5' # Use the Flutter version required in your pubspec.yaml
+        run: flutter doctor
 
       - name: Install dependencies
         run: flutter pub get # Use `flutter pub get` for Flutter projects
