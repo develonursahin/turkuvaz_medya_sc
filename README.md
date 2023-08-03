@@ -63,7 +63,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisan
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, benimle [e-posta yoluyla](mailto:derinonursahin@gmail.com) iletişime geçebilirsiniz.
 
-#EN
+# EN
 
 <p align="center">
   <img src="assets/icon/icon.png" alt="HAPP Logo" width="150" height="150">
