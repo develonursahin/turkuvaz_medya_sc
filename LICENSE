@@ -12,8 +12,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-**Note: This project, named "haber_app," may include API keys and other sensitive information that has been hidden using gitignore to protect the confidentiality of the company's active APIs. It is strictly prohibited to share, distribute, or make public any information related to these hidden APIs or sensitive data.**
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
