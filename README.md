@@ -44,7 +44,7 @@ Projeye katkıda bulunmadan önce [Katkı Kılavuzu](CONTRIBUTING.md)'nu incelem
 
 Eğer bir hata bulduysanız veya yeni bir özellik talep ediyorsanız, lütfen aşağıdaki şablonları kullanarak bir issue açın:
 
-- [Genel Issue Şablonu](.github/ISSUE_TEMPLATE/issue_template.md)
+- [Sorun Bildirme Şablonu](.github/ISSUE_TEMPLATE/issue_template.md)
 - [Hata Raporu Şablonu](.github/ISSUE_TEMPLATE/bug_report.md)
 - [Özellik Talebi Şablonu](.github/ISSUE_TEMPLATE/feature_request.md)
 

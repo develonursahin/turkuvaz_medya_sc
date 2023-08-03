@@ -1,4 +1,4 @@
-# Genel Issue Şablonu
+# Sorun Bildirme Şablonu
 
 **Açıklama**
 
